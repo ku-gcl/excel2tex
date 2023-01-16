@@ -93,3 +93,7 @@ $q\in\mathbb{R}^{4\times4}$ & クォータニオン \\
 \begin{figure}[H]
 ```
 
+
+# Tex tableを作成できる他のサイト
+
+- [Tables Generator](https://www.tablesgenerator.com/latex_tables)
