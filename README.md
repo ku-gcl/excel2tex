@@ -15,8 +15,10 @@ Excelの表をTexコードに変換するExcelマクロ。
 
 ![Excel画面](fig/excel.png)
 
+## 出力例
+
 ```
-% 出力例  *.tex
+% texコードの出力例  *.tex
 
 \begin{table}[tbph]
 \centering
@@ -32,7 +34,7 @@ $q\in\mathbb{R}^{4\times4}$ & クォータニオン \\
 \end{tabular}
 \end{table}
 ```
-
+## texでコンパイル後
 ![Tableの出力例](fig/table_style1.png)
 
 
@@ -58,6 +60,8 @@ $q\in\mathbb{R}^{4\times4}$ & クォータニオン \\
 
 表をExcel2Tex.xlsmで出力し、以下の2箇所を変更。
 
+## 出力例
+
 ```
 \begin{table}[tbph]
 \centering
@@ -73,7 +77,7 @@ $q\in\mathbb{R}^{4\times4}$ & クォータニオン \\
 \end{tabular}
 \end{table}
 ```
-
+## texでコンパイル後
 ![Tableの出力例2](fig/table_style2.png)
 
 ## 図を好きな位置に配置する
