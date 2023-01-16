@@ -3,6 +3,8 @@ Excelの表をTexコードに変換するExcelマクロ。
 使用するファイルは`Excel2Tex.xlsm`
 
 # 使い方
+1. `Excel2Tex.xlsm`を[ダウンロード](https://github.com/ku-gcl/excel2tex/releases)。
+1. `Excel2Tex.xlsm`を開く。マクロ（プログラム）を含んでいるため、ファイルを開くか警告が出ると思います。特に問題がなければ、有効を押します。
 1. Excelに表を記述する。このとき、表の見出しも記述しておくこと。
 1. B2セルに表の開始セルを入力する。
 1. B3セルに表の終了セルを入力する。
