@@ -1,4 +1,4 @@
-# Excel2Tex.xlsxについて
+# Excel2Texについて
 Excelの表をTexコードに変換するExcelマクロ。
 使用するファイルは`Excel2Tex.xlsm`
 
