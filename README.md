@@ -12,6 +12,9 @@ Excelの表をTexコードに変換するExcelマクロ。
 1. B5セルに表のキャプションを入力する。
 1. B6セルに表のラベルを入力する。`parameter`と入力すると、`\label{tab:parameter}`と出力される。
 1. `Convert to TEX`ボタンを押す。
+WindowsとMacでそれぞれバックスラッシュが異なる。
+    1. Windowsは`Convert to TEX (Windows)`を押す。
+    1. Macは`Convert to TEX (Mac)`を押す。
 1. B4に入力したセルに、Texコードが出力される。
 
 
